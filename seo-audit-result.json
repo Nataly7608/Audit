@@ -1,0 +1,77 @@
+{
+  "url": "https://www.garshinka.ru",
+  "load_time_sec": 10.19,
+  "http_status": null,
+  "content_type": "",
+  "title": "Гаршинка | Интернет-магазин садовых растений",
+  "title_length": 44,
+  "meta_description": "Гипермаркет садовых растений со всего мира. Бережно доставляем посадочный материал по России, Казахстану и Белоруссии. Гарантируем сорт и качество. Отвечаем за работу доставляющих компаний. Используем прозрачную схему оплаты стоимости доставки. Любим своих клиентов и гордимся своей профессиональной командой!",
+  "meta_description_length": 309,
+  "meta_keywords": "",
+  "h1": "Интернет-магазин саженцев и садовых растений «Гаршинка.ру»",
+  "headings": {
+    "h1": [
+      "Интернет-магазин саженцев и садовых растений «Гаршинка.ру»"
+    ],
+    "h2": [
+      "Садовые растения и саженцы для вашего сада",
+      "Садовые растения и саженцы для вашего сада",
+      "Вы успешно вошли в свой профиль."
+    ],
+    "h3": [
+      "Коллекция растений"
+    ],
+    "h4": [
+      "Преимущества сотрудничества с нами",
+      "Ассортимент продукции",
+      "\"Гаршинка\" - выбор профессионалов",
+      "Преимущества сотрудничества с нами",
+      "Ассортимент продукции",
+      "\"Гаршинка\" - выбор профессионалов"
+    ]
+  },
+  "canonical": "https://www.garshinka.ru/",
+  "lang": "ru",
+  "charset": "utf-8",
+  "viewport": "width=device-width",
+  "robots_meta": "",
+  "og_title": "",
+  "og_description": "",
+  "og_image": "https://www.garshinka.ru/themes/adaptive/images/og-logo.png?=v2",
+  "has_favicon": true,
+  "has_schema_org": true,
+  "images_total": 50,
+  "images_without_alt": 12,
+  "images_sample_no_alt": [
+    {
+      "src": "https://gallery.retailrocket.net/60ffd74097a52836181acb69/IMG_0604%20(1).jpg",
+      "alt": "",
+      "has_alt": false
+    },
+    {
+      "src": "https://gallery.retailrocket.net/60ffd74097a52836181acb69/IMG_0604%20(1).png",
+      "alt": "",
+      "has_alt": false
+    },
+    {
+      "src": "https://gallery.retailrocket.net/60ffd74097a52836181acb69/151.svg",
+      "alt": "",
+      "has_alt": false
+    },
+    {
+      "src": "/themes/adaptive/images/logo/springDesktop.svg",
+      "alt": "",
+      "has_alt": false
+    },
+    {
+      "src": "/themes/adaptive/images/sidebar/sale.svg",
+      "alt": "",
+      "has_alt": false
+    }
+  ],
+  "internal_links_count": 86,
+  "external_links_count": 0,
+  "robots_txt_found": true,
+  "sitemap_found": false,
+  "sitemap_urls_sample": []
+}

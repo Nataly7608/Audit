@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": ["../agent.md"],
+  "mcp": {
+    "playwright": {
+      "type": "local",
+      "command": ["npx", "playwright-mcp"],
+      "cwd": "..",
+      "enabled": true
+    }
+  }
+}
